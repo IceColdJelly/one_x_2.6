@@ -26,6 +26,7 @@ cp drivers/staging/ti-st/fm_drv.ko ../finished/OneXmodules;
 cp drivers/usb/class/cdc-acm.ko ../finished/OneXmodules;
 cp drivers/usb/serial/baseband_usb_chr.ko ../finished/OneXmodules;
 cp net/wireless/lib80211.ko ../finished/OneXmodules;
+cp drivers/net/kineto_gan.ko ../finished/OneXmodules;
 
 echo "";
 echo "COMPILING FINISHED!!!";
